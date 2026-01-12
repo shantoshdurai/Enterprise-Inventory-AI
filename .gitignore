@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Data and Models
+data/
+results/
+logs/
+models/saved/
+*.pkl
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
